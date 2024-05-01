@@ -84,5 +84,28 @@
 
 ---
 
-### Решение
+### Решение:
+
+2
+
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/324afe82-00b8-4af0-b21f-30cde8b64b98)
+
+3
+
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/450ce67d-0d9d-4b65-9c89-5a9ce3afd7ac)
+
+4
+
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/fbbf17aa-89b5-45e3-a47a-89326dd8e4e1)
+
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/8627f3eb-8eb6-4e44-958f-c3212c6333db)
+
+
+
+
+
+
+
+
+
   
