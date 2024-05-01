@@ -161,8 +161,19 @@
 ![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/05deb158-0ee9-48cf-bddb-0accaea28383)
 
 4. В файле `README.md` опишите своими словами, какие файлы будут проигнорированы в будущем благодаря добавленному `.gitignore`.
-   
+
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/98713392-5515-4e8d-b302-d0744dfc3be0)
+
 5. Закоммитьте все новые и изменённые файлы. Комментарий к коммиту должен быть `Added gitignore`.
+
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/9f83fa71-ad59-4ee2-bfda-390e82d2a2d7)
+
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/f60a388a-38f6-41ad-bb3d-190103cd233b)
+
+
+
+
+
 
 
 
