@@ -86,15 +86,15 @@
 
 ### Решение:
 
-2
+2) Создайте публичный репозиторий, который будете использовать дальше на протяжении всего курса, желательное с названием devops-netology. Обязательно поставьте галочку Initialize this repository with a README.
 
 ![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/324afe82-00b8-4af0-b21f-30cde8b64b98)
 
-3
+3)Создайте авторизационный токен для клонирования репозитория.
 
 ![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/450ce67d-0d9d-4b65-9c89-5a9ce3afd7ac)
 
-4
+4)Склонируйте репозиторий, используя протокол HTTPS (git clone ...).
 
 ![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/fbbf17aa-89b5-45e3-a47a-89326dd8e4e1)
 
