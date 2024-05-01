@@ -174,17 +174,27 @@
 
 1. Создайте файлы `will_be_deleted.txt` (с текстом `will_be_deleted`) и `will_be_moved.txt` (с текстом `will_be_moved`) и закоммите их с комментарием `Prepare to delete and move`.
 
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/394f435f-3a83-4b04-92fa-f732a556b928)
+
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/891449c4-2ea9-440b-9b02-56643fdc7d6d)
 
 2. В случае необходимости обратитесь к [официальной документации](https://git-scm.com/book/ru/v2/Основы-Git-Запись-изменений-в-репозиторий) — здесь подробно описано, как выполнить следующие шаги. 
 
-
 3. Удалите файл `will_be_deleted.txt` с диска и из репозитория. 
 
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/8c070310-874f-4c38-913e-7fcb2c8b549a)
 
 4. Переименуйте (переместите) файл `will_be_moved.txt` на диске и в репозитории, чтобы он стал называться `has_been_moved.txt`.
 
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/62720fc6-e272-486a-bb66-b61c15c55321)
 
 5. Закоммитьте результат работы с комментарием `Moved and deleted`.
+
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/1544f174-8955-4f86-8c6f-ea50519b041a)
+
+
+
+   
 
 
 
