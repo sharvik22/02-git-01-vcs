@@ -90,15 +90,61 @@
 
 ![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/324afe82-00b8-4af0-b21f-30cde8b64b98)
 
-3)Создайте авторизационный токен для клонирования репозитория.
+3) Создайте авторизационный токен для клонирования репозитория.
 
 ![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/450ce67d-0d9d-4b65-9c89-5a9ce3afd7ac)
 
-4)Склонируйте репозиторий, используя протокол HTTPS (git clone ...).
+4) Склонируйте репозиторий, используя протокол HTTPS (git clone ...).
 
 ![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/fbbf17aa-89b5-45e3-a47a-89326dd8e4e1)
 
 ![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/8627f3eb-8eb6-4e44-958f-c3212c6333db)
+
+6) Произведите первоначальную настройку Git, указав своё настоящее имя, чтобы нам было проще общаться, и email (git config --global user.name и git config --global user.email johndoe@example.com).
+
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/ce715bde-edb2-475f-a42c-37ab8f03f817)
+
+7) Выполните команду git status и запомните результат.
+
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/87e8eb1c-abd4-4520-aac3-5ab767343433)
+
+8) Отредактируйте файл README.md любым удобным способом, тем самым переведя файл в состояние Modified.
+
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/976934ac-b369-4f2e-bb0d-39a3d8f486b1)
+
+9) Ещё раз выполните git status и продолжайте проверять вывод этой команды после каждого следующего шага.
+
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/548cafa6-37f9-422c-9e9f-0370384b6e76)
+
+10) Теперь посмотрите изменения в файле README.md, выполнив команды git diff и git diff --staged.
+
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/5e99206e-8ab0-4c11-87b9-a8ab7dae7c1c)
+
+
+11) Переведите файл в состояние staged (или, как говорят, просто добавьте файл в коммит) командой git add README.md.
+
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/de73a70b-ec33-4b64-84b0-152ad7ee77a0)
+
+
+12) И ещё раз выполните команды git diff и git diff --staged. Поиграйте с изменениями и этими командами, чтобы чётко понять, что и когда они отображают.
+
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/fa8851e7-adf0-42d3-977f-0ca5b1e443ae)
+
+
+13) Теперь можно сделать коммит git commit -m 'First commit'.
+
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/28ed8d00-9bb3-4f2e-9421-c823cba54a7b)
+
+
+15) И ещё раз посмотреть выводы команд git status, git diff и git diff --staged.
+
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/447b3810-ffb5-4a07-aeea-8fa679a15445)
+
+
+
+
+
+
 
 
 
