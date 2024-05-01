@@ -212,6 +212,11 @@
 
 В качестве результата отправьте ссылку на репозиторий. 
 
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/b7f8275b-b648-4325-a968-149013e557f3)
+
+https://github.com/sharvik22/devops-netology.git
+
+
 
 
 
