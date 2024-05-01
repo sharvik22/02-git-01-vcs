@@ -141,6 +141,29 @@
 ![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/447b3810-ffb5-4a07-aeea-8fa679a15445)
 
 
+### Создание файлов `.gitignore` и второго коммита
+
+1. Создайте файл `.gitignore` (обратите внимание на точку в начале файла), проверьте его статус сразу после создания.
+
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/89f357a6-f420-41c5-acac-aa08c6cf7fba)
+
+   
+2. Добавьте файл `.gitignore` в следующий коммит (`git add...`).
+   
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/3459b24b-de1d-474d-96ce-7683e2e262f8)
+
+3. На одном из следующих блоков вы будете изучать `Terraform`, давайте сразу создадим соотвествующий каталог `terraform` и внутри этого каталога — файл `.gitignore` по примеру: https://github.com/github/gitignore/blob/master/Terraform.gitignore.
+
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/0f86e4af-7a7d-40c5-be65-1988a1369d54)
+
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/16f69a87-c1d4-4d0a-94dc-87c12aa60909)
+
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/05deb158-0ee9-48cf-bddb-0accaea28383)
+
+4. В файле `README.md` опишите своими словами, какие файлы будут проигнорированы в будущем благодаря добавленному `.gitignore`.
+   
+5. Закоммитьте все новые и изменённые файлы. Комментарий к коммиту должен быть `Added gitignore`.
+
 
 
 
