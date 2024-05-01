@@ -11,7 +11,7 @@
 2. Создайте публичный репозиторий, который будете использовать дальше на протяжении всего курса, желательное с названием `devops-netology`.
    Обязательно поставьте галочку `Initialize this repository with a README`. 
    
-    ![Диалог создания репозитория](img/github-new-repo-1.jpg)
+![image](https://github.com/sharvik22/02-git-01-vcs/assets/136818757/89b7c2bf-9eb2-405f-8f01-8a93769ab39b)
     
 3. Создайте [авторизационный токен](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) для клонирования репозитория.
 4. Склонируйте репозиторий, используя протокол HTTPS (`git clone ...`).
